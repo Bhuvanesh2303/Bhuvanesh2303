@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, and Embedded Systems
 - 🌱 I’m currently learning Node.js, MySQL, and advanced algorithms
 - 💞️ I’m looking to collaborate on  sensor programming, electronics, and logical problem-solving
-- 📫 How to reach me -gmail-bhuvaneshmallidi24@gmail.com [9381180517]
+- 📫 How to reach me bhuvaneshmallidi24@gmail.com [9381180517]
 
 
 <!---
